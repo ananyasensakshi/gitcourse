@@ -1,0 +1,32 @@
+1.topic wise must do questions
+
+http://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/
+
+2.bitwise operators
+
+http://www.geeksforgeeks.org/bits-manipulation-important-tactics/
+http://www.geeksforgeeks.org/bitwise-hacks-for-competitive-programming/
+
+3.https://www.geeksforgeeks.org/basic-graphic-programming-in-c/
+4.https://www.geeksforgeeks.org/a-number-link-game/
+5.https://www.geeksforgeeks.org/implementing-web-scraping-python-beautiful-soup/
+6.https://www.geeksforgeeks.org/cpp-implementation-minesweeper-game/
+7.www.geeksforgeeks.org/implementing-web-scraping-python-beautiful-soup/
+8.https://www.geeksforgeeks.org/google-geo-coding-web-service-json-response/
+9.https://codeclubprojects.org/en-GB/python/modern-art/
+10.https://codeclubprojects.org/en-GB/python/rpg/
+11.https://codingblocks.com/resources/machine-learning-basics-webinar-new/
+12.https://www.pythonstudio.us/programming-2/modern-art.html
+https://www.analyticsvidhya.com/blog/2015/10/beginner-guide-web-scraping-beautiful-soup-python/
+
+
+https://www.crummy.com/software/BeautifulSoup/bs3/documentation.html#The%20basic%20find%20method:%20findAll(name,%20attrs,%20recursive,%20text,%20limit,%20**kwargs)
+
+strings
+https://www.geeksforgeeks.org/storage-for-strings-in-c/
+
+
+https://www.geeksforgeeks.org/quiz-corner-gq/
+
+
+https://in.udacity.com/course/developing-android-apps--ud853

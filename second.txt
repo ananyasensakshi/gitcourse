@@ -1,0 +1,14 @@
+1.write a program to increment a number 5 times using INR;
+2.write a program to decrease a number 5 times using DCR;
+3.write a program to add two numbers with the sum not exceeding the limit of the processor
+4.write a program to subtract two numbers whose result is positive and withtin range of processor
+5.write a program to add two numbers considering carry and overflow
+6.write a program to subtract two numbers considering carry and overflow
+7.write a program to check if a number is equal to 10 or not
+8.write a program to check if a number is less than or equal to or greater than 10
+9.write a program to check if two numbers are equal or not
+10.write a program to find the greatest number of three numbers
+11.write a program to search an element in aan array of 10 elements
+12.write a program to find sum of 10 elements of an array
+13.write a program to find the greatest number from an array of 10 elements
+14.you are given an array of 25 elements with every number repeated even number of times except a single number.find the number which is repeated odd number of times. 
