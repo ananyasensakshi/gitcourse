@@ -12,3 +12,5 @@
 12.write a program to find sum of 10 elements of an array
 13.write a program to find the greatest number from an array of 10 elements
 14.you are given an array of 25 elements with every number repeated even number of times except a single number.find the number which is repeated odd number of times. 
+cvfg
+sonakshi
